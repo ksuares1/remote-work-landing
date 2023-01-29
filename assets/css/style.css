@@ -4,3 +4,30 @@
     }
     .attribution a { 
     color: hsl(228, 45%, 44%); }
+
+
+    button{
+        background:black;
+        color:white;
+        padding:15px;
+        /* border:solid; */
+        border-radius:20px; 
+        margin:0 auto;
+    }
+
+    button:hover{
+        cursor:pointer;
+    }
+
+    .header-container{
+        margin:50px auto;
+
+    }
+
+    h1{
+        line-height: 1.5;
+    }
+
+    footer{
+        position:fixed;
+    }
